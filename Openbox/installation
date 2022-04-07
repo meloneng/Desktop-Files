@@ -1,0 +1,10 @@
+apt install openbox \
+build-essential \
+xinit \
+unicode-rxvt \
+vim \
+mousepad \
+firefox-esr \
+neofetch \
+x11-xserver-utils \
+alsa-utils
