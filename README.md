@@ -2,7 +2,7 @@
 Some of my files for desktop configuration
 
 
-##Packages to install:
+## Packages to install:
 build-essential
 xinit
 unicode-rxvt
