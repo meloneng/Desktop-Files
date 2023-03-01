@@ -1,3 +1,7 @@
 
+BSPWM installation
 https://www.youtube.com/watch?v=PLBm0C5Gv58
+
+Using arandr or xrandr
+https://bbs.archlinux.org/viewtopic.php?id=73738
 
